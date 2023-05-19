@@ -1,0 +1,26 @@
+[
+    {
+        "userId": 1,
+        "name": "Rahul Kumar Singh",
+        "email": "rahul123@gmail.com",
+        "mobile":000000
+    },
+    {
+        "userId": 2,
+        "name": "Rohan Kumar ",
+        "email": "rohan993@gmail.com",
+        "mobile":111111
+    },
+    {
+        "userId": 3,
+        "name": "Rohit Kumar Singh",
+        "email": "rohit423@gmail.com",
+        "mobile":888888
+    },
+    {
+        "userId": 4,
+        "name": "Rishi singh",
+        "email": "rishi000@gmail.com",
+        "mobile":555555
+    }
+]

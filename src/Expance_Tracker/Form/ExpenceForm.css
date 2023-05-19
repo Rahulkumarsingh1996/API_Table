@@ -1,0 +1,29 @@
+.new-expense__controls{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7.8rem;
+    margin-bottom: 2rem;
+    text-align: left;
+    margin-top: 0.5rem;
+}
+
+.new-expense__control lable{
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.new-expense__control input{
+    font: inherit;
+    padding: 0.7rem;
+    border-radius: 20px;
+    border: 1px solid #cebccf2e;
+    width: 20rem;
+    max-width: 100%;
+    /* background-color: #342b2f2e; */
+
+}
+
+.new-expense__actions{
+    text-align: center;
+}
